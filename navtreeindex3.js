@@ -1,5 +1,14 @@
 var NAVTREEINDEX3 =
 {
+"classcubos_1_1core_1_1memory_1_1StdStream.html#ad1b29d8b0020dd495016039b3f0c8552":[5,0,0,0,4,1,4],
+"classcubos_1_1core_1_1memory_1_1StdStream.html#ad4b2858395b81956eda80bc41ae82fa8":[5,0,0,0,4,1,3],
+"classcubos_1_1core_1_1memory_1_1StdStream.html#ad853690b8288471f55046b4f5edd1602":[5,0,0,0,4,1,2],
+"classcubos_1_1core_1_1memory_1_1StdStream.html#af3838c963acc7dfec4742dec6f47db08":[5,0,0,0,4,1,1],
+"classcubos_1_1core_1_1memory_1_1Stream.html":[5,0,0,0,4,2],
+"classcubos_1_1core_1_1memory_1_1Stream.html#a06126de68374b8bc94b5f18c970f245b":[5,0,0,0,4,2,21],
+"classcubos_1_1core_1_1memory_1_1Stream.html#a0c150d518dacd6504af301cbe7649afe":[5,0,0,0,4,2,19],
+"classcubos_1_1core_1_1memory_1_1Stream.html#a18872dfebd2fd0ecb675cf319e97f0f3":[5,0,0,0,4,2,22],
+"classcubos_1_1core_1_1memory_1_1Stream.html#a1937aad2d6607c9f24ce5a72f1c5e1a1":[5,0,0,0,4,2,13],
 "classcubos_1_1core_1_1memory_1_1Stream.html#a1ee2b8ab4e131d14dbb4db0f6a029069":[5,0,0,0,4,2,8],
 "classcubos_1_1core_1_1memory_1_1Stream.html#a2aa69cfa0ca02f3eee4fe1783cdf2149":[5,0,0,0,4,2,18],
 "classcubos_1_1core_1_1memory_1_1Stream.html#a2d15d5258bfcd87715b0f604b9ea142e":[5,0,0,0,4,2,2],
@@ -240,14 +249,5 @@ var NAVTREEINDEX3 =
 "functions_func_b.html":[5,3,1,1],
 "functions_func_c.html":[5,3,1,2],
 "functions_func_d.html":[5,3,1,3],
-"functions_func_e.html":[5,3,1,4],
-"functions_func_f.html":[5,3,1,5],
-"functions_func_g.html":[5,3,1,6],
-"functions_func_h.html":[5,3,1,7],
-"functions_func_i.html":[5,3,1,8],
-"functions_func_j.html":[5,3,1,9],
-"functions_func_l.html":[5,3,1,10],
-"functions_func_m.html":[5,3,1,11],
-"functions_func_n.html":[5,3,1,12],
-"functions_func_o.html":[5,3,1,13]
+"functions_func_e.html":[5,3,1,4]
 };

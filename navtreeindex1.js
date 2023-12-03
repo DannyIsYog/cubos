@@ -1,5 +1,14 @@
 var NAVTREEINDEX1 =
 {
+"classcubos_1_1core_1_1data_1_1SerializationMap.html#aae695df5c19ed0e538ec43c79e7cbca1":[5,0,0,0,0,12,0],
+"classcubos_1_1core_1_1data_1_1SerializationMap.html#ac747129e1ff1a78434332955cfa5edd7":[5,0,0,0,0,12,9],
+"classcubos_1_1core_1_1data_1_1SerializationMap.html#ac801b157417a8f8b96763e4a7dc9be9d":[5,0,0,0,0,12,2],
+"classcubos_1_1core_1_1data_1_1SerializationMap.html#adc132e59bb05bae7781bfb7178b6abe2":[5,0,0,0,0,12,7],
+"classcubos_1_1core_1_1data_1_1SerializationMap.html#af1538993ac686a0ebfb7264f87758802":[5,0,0,0,0,12,6],
+"classcubos_1_1core_1_1data_1_1Serializer.html":[5,0,0,0,0,13],
+"classcubos_1_1core_1_1data_1_1Serializer.html#a074e3d5953b2312df04e0970124a11a2":[5,0,0,0,0,13,13],
+"classcubos_1_1core_1_1data_1_1Serializer.html#a08f499cbfc19895115f7729f52dd0e37":[5,0,0,0,0,13,25],
+"classcubos_1_1core_1_1data_1_1Serializer.html#a1346b922695fc4cc9eb2e2a63f187b66":[5,0,0,0,0,13,7],
 "classcubos_1_1core_1_1data_1_1Serializer.html#a14b935cfa8819422615b9d73896800a2":[5,0,0,0,0,13,8],
 "classcubos_1_1core_1_1data_1_1Serializer.html#a16ffe97c72ea3fe3f17ed9b32f620e08":[5,0,0,0,0,13,28],
 "classcubos_1_1core_1_1data_1_1Serializer.html#a20c7d6b89636313eebf3458b95fbf20d":[5,0,0,0,0,13,29],
@@ -240,14 +249,5 @@ var NAVTREEINDEX1 =
 "classcubos_1_1core_1_1gl_1_1Grid.html#ac6e4bafa85af822f0367754e95dd640c":[5,0,0,0,2,3,12],
 "classcubos_1_1core_1_1gl_1_1Grid.html#acc83d2b66777e77ba2b6a725c2f9004e":[5,0,0,0,2,3,10],
 "classcubos_1_1core_1_1gl_1_1Grid.html#ad38d07b4bc8d2b1564db5956816dce7f":[5,0,0,0,2,3,0],
-"classcubos_1_1core_1_1gl_1_1Grid.html#ad6f92fd6646593addece930bed9b20fb":[5,0,0,0,2,3,8],
-"classcubos_1_1core_1_1gl_1_1Grid.html#af187f9343f1fc7e6c9fd61e98385b98a":[5,0,0,0,2,3,6],
-"classcubos_1_1core_1_1gl_1_1Grid.html#afc276e14e2a975196f9fc37d9f7b8470":[5,0,0,0,2,3,9],
-"classcubos_1_1core_1_1gl_1_1Palette.html":[5,0,0,0,2,8],
-"classcubos_1_1core_1_1gl_1_1Palette.html#a0cde9e9005b5e61b7233a11576e80f6b":[5,0,0,0,2,8,9],
-"classcubos_1_1core_1_1gl_1_1Palette.html#a4182b2b1782a95c75546ed063bcd6b3b":[5,0,0,0,2,8,6],
-"classcubos_1_1core_1_1gl_1_1Palette.html#a4678e4128e58b305d8fd473e157b02b3":[5,0,0,0,2,8,11],
-"classcubos_1_1core_1_1gl_1_1Palette.html#a4a247b54a67c269f5cf1879d44681214":[5,0,0,0,2,8,10],
-"classcubos_1_1core_1_1gl_1_1Palette.html#a4d22164d8ea3cebf615c6f15109f70a2":[5,0,0,0,2,8,1],
-"classcubos_1_1core_1_1gl_1_1Palette.html#a627b852ff3b414d1e07639fc7b7af355":[5,0,0,0,2,8,4]
+"classcubos_1_1core_1_1gl_1_1Grid.html#ad6f92fd6646593addece930bed9b20fb":[5,0,0,0,2,3,8]
 };
