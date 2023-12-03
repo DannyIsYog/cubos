@@ -1,3 +1,7 @@
+Hello, this is an older version of the CUBOS. Game Engine, until I worked on it. You can see my contribution to the Input System (core/include/cubos/io ; core/samples/input_manager.cpp ; core/src/cubos/io) and to the ECS System (core/include/cubos/core/ecs ; core/samples/ecs.cpp ; core/src/cubos/core/ecs ; core/engine/samples).
+
+You can check the updated version of the engine [here](https://github.com/GameDevTecnico/cubos).
+
 # **CUBOS.** Engine
 
 <p align="center">
